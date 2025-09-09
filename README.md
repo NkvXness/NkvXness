@@ -178,19 +178,6 @@ total 42K
 </div>
 
 ```bash
-┌─[✓]─[jedi@deathstar]─[~]
-└──╼ $ git log --stat --contributions --galactic-time
-```
-
-### 📈 FORCE CONTRIBUTION HEATMAP 📈
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/NkvXness/NkvXness/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-```bash
 ┌─[✓]─[jedi@deathstar]─[~/projects]
 └──╼ $ ls -la --color=always | grep "^d.*jedi.*"
 ```
