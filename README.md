@@ -210,21 +210,12 @@ total 42K
 └───────────────────────────────────────────────────────┘
 ```
 
-<a href="https://linkedin.com/in/ваш-профиль" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" style="text-decoration: none;" alt="LinkedIn"/>
-</a>
-<a href="mailto:ваш@email.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" style="text-decoration: none;" alt="Email"/>
-</a>
-<a href="https://codewars.com/users/NkvXness" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" style="text-decoration: none;" alt="Codewars"/>
-</a>
-<a href="https://twitter.com/ваш-twitter" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" style="text-decoration: none;" alt="X"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-профиль)
+[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](href="mailto:ваш@email.com")
+[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://codewars.com/users/NkvXness)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ваш-twitter)
 
-
-</div><br>
+</div>
 
 ```bash
 ┌─[✓]─[jedi@deathstar]─[~]
