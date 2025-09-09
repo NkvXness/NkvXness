@@ -238,7 +238,7 @@ total 42K
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=NkvXness&label=MATRIX%20INTRUSIONS&color=blue&style=flat-square&abbreviated=true" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=NkvXness&label=JEDI%20VISITORS&color=blue&style=flat-square&abbreviated=true" alt="Profile Views"/>
 
 </div>
 
