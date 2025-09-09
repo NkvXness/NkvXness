@@ -186,9 +186,7 @@ total 42K
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NkvXness&repo=НАЗВАНИЕ_РЕПОЗИТОРИЯ&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/NkvXness/НАЗВАНИЕ_РЕПОЗИТОРИЯ)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NkvXness&repo=НАЗВАНИЕ_РЕПОЗИТОРИЯ2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/NkvXness/НАЗВАНИЕ_РЕПОЗИТОРИЯ2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NkvXness&repo=GoBookshelf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/NkvXness/GoBookshelf)
 
 </div>
 
