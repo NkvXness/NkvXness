@@ -40,7 +40,7 @@ There is no legacy code, only code awaiting refactoring.
 
 **⚔️ LIGHTSABER COLLECTION**
 <br><br>
-<img src="https://skillicons.dev/icons?i=c,cs,go,js,react,ts" />
+<img src="https://skillicons.dev/icons?i=c,cs,go,php,js,react,ts" />
 
 **🛠️ JEDI TOOLS**
 <br><br>
